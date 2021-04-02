@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Avg of 3 numbers/1.0.0": {
+        "runtime": {
+          "Avg of 3 numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Avg of 3 numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

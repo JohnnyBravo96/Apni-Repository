@@ -1,0 +1,16 @@
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\1\1\bin\Debug\net5.0\1.exe
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\1\1\bin\Debug\net5.0\1.deps.json
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\1\1\bin\Debug\net5.0\1.runtimeconfig.json
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\1\1\bin\Debug\net5.0\1.runtimeconfig.dev.json
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\1\1\bin\Debug\net5.0\1.dll
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\1\1\bin\Debug\net5.0\ref\1.dll
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\1\1\bin\Debug\net5.0\1.pdb
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\1\1\obj\Debug\net5.0\1.csprojAssemblyReference.cache
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\1\1\obj\Debug\net5.0\1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\1\1\obj\Debug\net5.0\1.AssemblyInfoInputs.cache
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\1\1\obj\Debug\net5.0\1.AssemblyInfo.cs
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\1\1\obj\Debug\net5.0\1.csproj.CoreCompileInputs.cache
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\1\1\obj\Debug\net5.0\1.dll
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\1\1\obj\Debug\net5.0\ref\1.dll
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\1\1\obj\Debug\net5.0\1.pdb
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\1\1\obj\Debug\net5.0\1.genruntimeconfig.cache

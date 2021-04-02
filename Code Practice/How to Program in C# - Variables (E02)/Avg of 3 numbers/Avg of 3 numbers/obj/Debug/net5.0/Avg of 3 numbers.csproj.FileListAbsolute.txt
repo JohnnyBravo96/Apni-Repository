@@ -1,0 +1,15 @@
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\Avg of 3 numbers\Avg of 3 numbers\bin\Debug\net5.0\Avg of 3 numbers.exe
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\Avg of 3 numbers\Avg of 3 numbers\bin\Debug\net5.0\Avg of 3 numbers.deps.json
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\Avg of 3 numbers\Avg of 3 numbers\bin\Debug\net5.0\Avg of 3 numbers.runtimeconfig.json
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\Avg of 3 numbers\Avg of 3 numbers\bin\Debug\net5.0\Avg of 3 numbers.runtimeconfig.dev.json
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\Avg of 3 numbers\Avg of 3 numbers\bin\Debug\net5.0\Avg of 3 numbers.dll
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\Avg of 3 numbers\Avg of 3 numbers\bin\Debug\net5.0\ref\Avg of 3 numbers.dll
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\Avg of 3 numbers\Avg of 3 numbers\bin\Debug\net5.0\Avg of 3 numbers.pdb
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\Avg of 3 numbers\Avg of 3 numbers\obj\Debug\net5.0\Avg of 3 numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\Avg of 3 numbers\Avg of 3 numbers\obj\Debug\net5.0\Avg of 3 numbers.AssemblyInfoInputs.cache
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\Avg of 3 numbers\Avg of 3 numbers\obj\Debug\net5.0\Avg of 3 numbers.AssemblyInfo.cs
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\Avg of 3 numbers\Avg of 3 numbers\obj\Debug\net5.0\Avg of 3 numbers.csproj.CoreCompileInputs.cache
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\Avg of 3 numbers\Avg of 3 numbers\obj\Debug\net5.0\Avg of 3 numbers.dll
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\Avg of 3 numbers\Avg of 3 numbers\obj\Debug\net5.0\ref\Avg of 3 numbers.dll
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\Avg of 3 numbers\Avg of 3 numbers\obj\Debug\net5.0\Avg of 3 numbers.pdb
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\Avg of 3 numbers\Avg of 3 numbers\obj\Debug\net5.0\Avg of 3 numbers.genruntimeconfig.cache

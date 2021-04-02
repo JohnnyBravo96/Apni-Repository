@@ -1,0 +1,16 @@
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\basic addition\basic addition\bin\Debug\net5.0\basic addition.exe
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\basic addition\basic addition\bin\Debug\net5.0\basic addition.deps.json
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\basic addition\basic addition\bin\Debug\net5.0\basic addition.runtimeconfig.json
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\basic addition\basic addition\bin\Debug\net5.0\basic addition.runtimeconfig.dev.json
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\basic addition\basic addition\bin\Debug\net5.0\basic addition.dll
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\basic addition\basic addition\bin\Debug\net5.0\ref\basic addition.dll
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\basic addition\basic addition\bin\Debug\net5.0\basic addition.pdb
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\basic addition\basic addition\obj\Debug\net5.0\basic addition.csprojAssemblyReference.cache
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\basic addition\basic addition\obj\Debug\net5.0\basic addition.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\basic addition\basic addition\obj\Debug\net5.0\basic addition.AssemblyInfoInputs.cache
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\basic addition\basic addition\obj\Debug\net5.0\basic addition.AssemblyInfo.cs
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\basic addition\basic addition\obj\Debug\net5.0\basic addition.csproj.CoreCompileInputs.cache
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\basic addition\basic addition\obj\Debug\net5.0\basic addition.dll
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\basic addition\basic addition\obj\Debug\net5.0\ref\basic addition.dll
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\basic addition\basic addition\obj\Debug\net5.0\basic addition.pdb
+D:\MY PROJECTS\REPO\Code Practice\How to Program in C# - Variables (E02)\basic addition\basic addition\obj\Debug\net5.0\basic addition.genruntimeconfig.cache
